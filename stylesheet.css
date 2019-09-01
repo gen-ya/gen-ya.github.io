@@ -149,6 +149,8 @@ header {
 
 .lesson-icon {
   position: relative;
+  max-width: 100%;
+　height: auto;
 }
 
 .lesson-icon p {
