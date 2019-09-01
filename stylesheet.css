@@ -82,7 +82,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: #C0C0C0;
+  background-color:#888888;
   position :fixed;
   top: 0;
   z-index: 10;
