@@ -149,7 +149,6 @@ header {
 
 .lesson-icon {
   position: relative;
-  margin-top:30px;
 }
 
 .lesson-icon p {
@@ -157,6 +156,7 @@ header {
   top: 44%;
   width: 100%;
   color: black;
+  padding-bottom:40px;
 }
 
 .text-contents {
