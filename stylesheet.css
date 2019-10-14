@@ -23,11 +23,9 @@ a {
 }
 
 .top-wrapper {
-   height: 0;
-    /* 表示画像の高さ ÷ 表示画像の幅 × 100 */
-    padding-top: 66.25%;
+  padding: 180px 0 100px 0;
   background-image: url("ipadIMGL1133.jpg");
-  background-size: contain;
+  background-size: cover;
   color: white;
   text-align: center;
 }
