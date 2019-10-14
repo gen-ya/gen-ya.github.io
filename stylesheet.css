@@ -23,11 +23,18 @@ a {
 }
 
 .top-wrapper {
-  padding-top: 60%;
+  width:100%;
+	height:auto;
   background-image: url("ipadIMGL1133.jpg");
-  background-size: cover;
+  background-size: 100%;
   color: white;
   text-align: center;
+}
+
+.top-wrapper::before {
+	display:block;
+	content:"";
+	padding-top:65%; // 画像縦幅÷画像横幅
 }
 
 .top-wrapper h1 {
