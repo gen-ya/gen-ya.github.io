@@ -23,9 +23,7 @@ a {
 }
 
 .top-wrapper {
-  width: 100%;
-  padding-top: 20%;
-  position: relative;
+  padding-top: 60%;
   background-image: url("ipadIMGL1133.jpg");
   background-size: cover;
   color: white;
