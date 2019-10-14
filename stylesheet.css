@@ -27,6 +27,7 @@ a {
   padding-top:35%;
   background-image: url("ipadIMGL1133.jpg");
   background-size: 100%;
+  position: relative;
   color: white;
   text-align: center;
 }
